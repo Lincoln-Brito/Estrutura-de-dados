@@ -1,0 +1,33 @@
+import java.util.*;
+public class L_Circular_D_Nao_Ordenada
+{
+//Definido a classe que representará
+//cada elemento da lista
+private static class LISTA
+{
+public int num;
+public LISTA prox;
+public LISTA ant;
+}
+
+public static void main {SAtring args[]}
+{
+Scanner entrada = new Scanner{System.in;
+// a lista está vazia,logo,
+// o objeto inicio tem o valor null
+// o objeto inicio conterá o enderece
+// do primeiro da lista
+LISTA inicio = null;
+// o objeto fim conterá o endereco
+// do último elemento da lista
+LISTA fim = null;
+// o objeto aux é um objeto auxiliar
+LISTA aux;
+// apresentando o menu de opções
+int op, numero, achou;
+do
+{
+System.out.println(
+}
+}
+}
